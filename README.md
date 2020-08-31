@@ -13,5 +13,5 @@
 ・Go<br>
 <br>
 <br>
-**ゴール**
+**ゴール**<br>
 DFSや、bit演算をmasterしたいです
