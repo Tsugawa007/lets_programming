@@ -1,15 +1,16 @@
-**毎日programming**
+**Let's programming**
 <br>
 <br>
 週に3回以上は簡単なプログラムを解いています<br><br>
+忙しい時は、更新が途切れます。
 **理由**<br>
 難しい問題だと、毎日続かないからです<br><br>
 **使用しているプログラミング言語**<br>
 ・python<br>
 ・c++<br>
+・Java<br>
 時々、勉強のために、<br>
 ・Ruby<br>
-・Java<br>
 ・Go<br>
 <br>
 <br>
